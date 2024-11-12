@@ -1,0 +1,2 @@
+int salary = 15000;
+salary+=2000;
